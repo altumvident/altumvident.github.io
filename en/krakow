@@ -1,0 +1,153 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" ><head>
+<title>Altum Vident - Kraków</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 
+
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_50_1357118642.css" />
+<script type="text/javascript" src="/uploads/js/cufon-yui.js"></script>
+<script type="text/javascript" src="/uploads/js/Aller_700.font.js"></script>
+<script type="text/javascript" src="/uploads/js/behave.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_52_1331907298.css"/>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_53_1331907780.css"/>
+<![endif]-->
+<script type="text/javascript" src="/uploads/js/skrypty.js"></script>
+
+</head>
+
+<body class="lang-en">
+<div id="header" class="main">
+    <h1 id="logo_wrap"><a href="/"><img src="/uploads/img/altum_vident_logo.png" width="175" height="100" alt="Altum Vident" /></a></h1>
+    <div id="lang">
+    
+    
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/pl/krakow">
+        
+            <img alt="Polski" title="Polski" src="/uploads/images/MleCMS/pl.png">
+        
+        </a>
+        
+    
+        
+            <img alt="English" title="English" src="/uploads/images/MleCMS/en.png">
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/zh-hans/krakow">
+        
+            <img alt="简体中文" title="简体中文" src="/uploads/images/MleCMS/zh-hans.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/de/krakow">
+        
+            <img alt="Deutsch" title="Deutsch" src="/uploads/images/MleCMS/de.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/fr/krakow">
+        
+            <img alt="Français" title="Français" src="/uploads/images/MleCMS/fr.png">
+        
+        </a>
+        
+    
+    </div>
+    <div class="clear"></div>
+
+    <!-- start menu -->
+    <div id="menu">
+        <ul>
+            
+            
+            
+            <li class="">
+                <a href="/en/"><span>Homepage</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/en/why-us"><span>Why Us</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/en/mission-and-vision"><span>Mission and Vision</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/en/about-us"><span>About Us</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/en/destination-poland"><span>Destination Poland</span></a>
+            </li>
+            
+            
+            <li class=" m_events">
+                <a href="/en/b2b-business-events"><span>B2B Business Events</span></a>
+            </li>
+            
+            
+            <li class=" m_programs">
+                <a href="/en/b2b-business-programs"><span>B2B Business Programs</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/en/contact/"><span>Contact</span></a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<div id="content" class="main">
+<div id="column_l">
+<div id="sub-page">
+<h2>Krak&oacute;w</h2>
+<p><strong>Krak&oacute;w</strong> is the second largest Polish city. It is not only the administrative centre of the Małopolskie voivodship (Lesser Poland), but also a supraregional academic and economic hub. The capital of Małopolska is one of the economically fastest growing regions of Poland, which is confirmed by European Cities &amp; Regions of the Future 2010/11, Investment attractiveness of Polish regions 2010 (The Gdańsk Institute for Market Economics), Top 10 Emerging Outsourcing Cities List (Global Services, 2010) rankings.</p>
+<p>The strong position of the academic hub and a high scientific level of the city universities (Jagiellonian University in Cracow, Cracow University of Technology, and University of Science and Technology) strengthen the city&rsquo;s high position in respect of the number and quality of Research and Development institutions. Within the framework of the Małopolska Regional Operational Programme for 2007-2013, an amount of &euro; 177.7 million was allocated for commercialisation of scientific research.</p>
+<p>Krak&oacute;w boasts a great number of highly qualified staff for all modern sectors of economy, and it attracts investors of various branches.</p>
+<p>Krak&oacute;w is also one of the most attractive tourist destinations in Europe.</p>
+<p>Main industrial branches: processing, automotive, commerce and services, science and research.</p>
+</div>
+</div>
+<div id="column_r"><img src="../../../../../uploads/images/krakow_big.jpg" alt="" width="236" height="282" /></div>
+</div>
+<div class="clear">&nbsp;</div>
+
+
+<div class="clear">&nbsp;</div>
+
+<div id="prom" class="main">
+    <h2>Altum Vident <span>is Your partner in Poland.</span></h2>
+    <h2><span style="margin-left: 250px;">Your business partner.</span></h2>
+</div>
+
+<div class="f_bg">
+    <div id="footer" class="main">
+        <p class="f_left">
+        Copyright &copy; 2017 by AltumVident - All rights reserved.
+        <div class="clear"></div>
+    </div>
+</div>
+</body>
+</html>

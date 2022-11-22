@@ -1,0 +1,152 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" ><head>
+<title>Altum Vident - Katowice</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 
+
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_50_1357118642.css" />
+<script type="text/javascript" src="/uploads/js/cufon-yui.js"></script>
+<script type="text/javascript" src="/uploads/js/Aller_700.font.js"></script>
+<script type="text/javascript" src="/uploads/js/behave.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_52_1331907298.css"/>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_53_1331907780.css"/>
+<![endif]-->
+<script type="text/javascript" src="/uploads/js/skrypty.js"></script>
+
+</head>
+
+<body class="lang-pl">
+<div id="header" class="main">
+    <h1 id="logo_wrap"><a href="/"><img src="/uploads/img/altum_vident_logo.png" width="175" height="100" alt="Altum Vident" /></a></h1>
+    <div id="lang">
+    
+    
+    
+        
+            <img alt="Polski" title="Polski" src="/uploads/images/MleCMS/pl.png">
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/en/katowice">
+        
+            <img alt="English" title="English" src="/uploads/images/MleCMS/en.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/zh-hans/katowice">
+        
+            <img alt="简体中文" title="简体中文" src="/uploads/images/MleCMS/zh-hans.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/de/katowice">
+        
+            <img alt="Deutsch" title="Deutsch" src="/uploads/images/MleCMS/de.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/fr/katowice">
+        
+            <img alt="Français" title="Français" src="/uploads/images/MleCMS/fr.png">
+        
+        </a>
+        
+    
+    </div>
+    <div class="clear"></div>
+
+    <!-- start menu -->
+    <div id="menu">
+        <ul>
+            
+            
+            
+            <li class="">
+                <a href="/pl/"><span>Strona główna</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/why-us"><span>Dlaczego my?</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/mission-and-vision"><span>Misja i Wizja</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/about-us"><span>O nas</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/destination-poland"><span>Kierunek Polska</span></a>
+            </li>
+            
+            
+            <li class=" m_events">
+                <a href="/pl/b2b-business-events"><span>B2B Business Events</span></a>
+            </li>
+            
+            
+            <li class=" m_programs">
+                <a href="/pl/b2b-business-programs"><span>B2B Business Programs</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/contact/"><span>Kontakt</span></a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<div id="content" class="main">
+<div id="column_l">
+<div id="sub-page">
+<h2>Katowice</h2>
+<p><strong>Katowice</strong> to centrum 2 milionowej aglomeracji Wojew&oacute;dztwa Śląskiego. Miasto ocenione jako najlepsze w Europie środkowo-wschodniej i piąte w Europie pod względem strategii przyciągania zagranicznych inwestycji. Obecność Katowickiej Specjalnej Strefy Ekonomicznej jest niezwykle istotna w zachęcaniu do lokalizowania się w tym mieście.</p>
+<p>Niezaprzeczalne atuty regionu to: położenie w centrum Europy Środkowo-Wschodniej, dostępność wysoko wykwalifikowanej kadry, dobrze rozwinięta sieć infrastruktury transportowej wraz z portem lotniczym, zachęty inwestycyjne, w tym oferowane przez KSSE, otoczenie biznesowe oraz szeroki wachlarz możliwości spędzania wolnego czasu.</p>
+<p>Katowice są jednym z większych ośrodk&oacute;w naukowych w Polsce. Znajduje się tu ponad 20 uczelni wyższych, na kt&oacute;rych studiuje prawie 100 tys. os&oacute;b. Region jest bardzo ważnym w kraju ośrodkiem wystawienniczo-targowym.</p>
+<p>Gł&oacute;wne branże: Przemysł g&oacute;rniczy, hutniczy, energetyczny, motoryzacyjny oraz farmaceutyczny.</p>
+</div>
+</div>
+<div id="column_r" style="margin-top: 40px; margin-bottom: 20px;"><img src="../../../../../uploads/images/katowice_big.jpg" alt="" width="236" height="282" /></div>
+</div>
+<div class="clear">&nbsp;</div>
+
+
+<div class="clear">&nbsp;</div>
+
+<div id="prom" class="main">
+    <h2>Altum Vident <span>Twoim partnerem w Polsce.</span></h2>
+    <h2><span style="margin-left: 250px;">Twoim partnerem w biznesie.</span></h2>
+</div>
+
+<div class="f_bg">
+    <div id="footer" class="main">
+        <p class="f_left">
+        Copyright &copy; 2017 by AltumVident - All rights reserved.
+        <div class="clear"></div>
+    </div>
+</div>
+</body>
+</html>

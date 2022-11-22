@@ -1,0 +1,150 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" ><head>
+<title>Altum Vident - Poznań</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 
+
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_50_1357118642.css" />
+<script type="text/javascript" src="/uploads/js/cufon-yui.js"></script>
+<script type="text/javascript" src="/uploads/js/Aller_700.font.js"></script>
+<script type="text/javascript" src="/uploads/js/behave.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_52_1331907298.css"/>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_53_1331907780.css"/>
+<![endif]-->
+<script type="text/javascript" src="/uploads/js/skrypty.js"></script>
+
+</head>
+
+<body class="lang-pl">
+<div id="header" class="main">
+    <h1 id="logo_wrap"><a href="/"><img src="/uploads/img/altum_vident_logo.png" width="175" height="100" alt="Altum Vident" /></a></h1>
+    <div id="lang">
+    
+    
+    
+        
+            <img alt="Polski" title="Polski" src="/uploads/images/MleCMS/pl.png">
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/en/poznan">
+        
+            <img alt="English" title="English" src="/uploads/images/MleCMS/en.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/zh-hans/poznan">
+        
+            <img alt="简体中文" title="简体中文" src="/uploads/images/MleCMS/zh-hans.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/de/poznan">
+        
+            <img alt="Deutsch" title="Deutsch" src="/uploads/images/MleCMS/de.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/fr/poznan">
+        
+            <img alt="Français" title="Français" src="/uploads/images/MleCMS/fr.png">
+        
+        </a>
+        
+    
+    </div>
+    <div class="clear"></div>
+
+    <!-- start menu -->
+    <div id="menu">
+        <ul>
+            
+            
+            
+            <li class="">
+                <a href="/pl/"><span>Strona główna</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/why-us"><span>Dlaczego my?</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/mission-and-vision"><span>Misja i Wizja</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/about-us"><span>O nas</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/destination-poland"><span>Kierunek Polska</span></a>
+            </li>
+            
+            
+            <li class=" m_events">
+                <a href="/pl/b2b-business-events"><span>B2B Business Events</span></a>
+            </li>
+            
+            
+            <li class=" m_programs">
+                <a href="/pl/b2b-business-programs"><span>B2B Business Programs</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/pl/contact/"><span>Kontakt</span></a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<div id="content" class="main">
+<div id="column_l">
+<div id="sub-page">
+<h2>Poznań</h2>
+<p>Poznań należy do największych ośrodk&oacute;w gospodarczych w kraju. Pod względem liczby ludności jest piątym miastem w Polsce, liczy ponad 550tys. mieszkańc&oacute;w. Poznań jest też czwartym ośrodkiem akademickim w Polsce, w 26 szkołach wyższych studiuje łącznie 133,6 tys. Os&oacute;b. Miasto zaliczane jest do najbardziej atrakcyjnych miejsc do inwestowania w Polsce, według zewnętrznych ocen przeprowadzanych przez agencję ratingową Moody's Investors Service, pod względem wiarygodności dla inwestor&oacute;w Poznań nieznacznie ustępuje Warszawie. Funkcjonują tu Międzynarodowe Targi Poznańskie &ndash; największe i najstarsze centrum wystawiennicze w Polsce. Gł&oacute;wne atuty Poznania to: duży potencjał rynku lokalnego, jakość siły roboczej, korzystny klimat społeczny i rozbudowana infrastruktura techniczna. Ważna jest także dostępność komunikacyjna, szczeg&oacute;lnie połączenia lotnicze i bliskość granicy zachodniej oraz zaawansowane procesy transformacji gospodarczej.</p>
+<p>Poznań stanowi centrum przemysłu, handlu, logistyki i turystyki biznesowej.</p>
+</div>
+</div>
+<div id="column_r" style="margin-top: 40px; margin-bottom: 20px;"><img src="../../../../../uploads/images/poznan_big.jpg" alt="" width="236" height="271" /></div>
+</div>
+<div class="clear">&nbsp;</div>
+
+
+<div class="clear">&nbsp;</div>
+
+<div id="prom" class="main">
+    <h2>Altum Vident <span>Twoim partnerem w Polsce.</span></h2>
+    <h2><span style="margin-left: 250px;">Twoim partnerem w biznesie.</span></h2>
+</div>
+
+<div class="f_bg">
+    <div id="footer" class="main">
+        <p class="f_left">
+        Copyright &copy; 2017 by AltumVident - All rights reserved.
+        <div class="clear"></div>
+    </div>
+</div>
+</body>
+</html>

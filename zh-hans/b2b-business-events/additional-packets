@@ -1,0 +1,184 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" ><head>
+<title>Altum Vident - Events 附加服务</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 
+
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_50_1357118642.css" />
+<script type="text/javascript" src="/uploads/js/cufon-yui.js"></script>
+<script type="text/javascript" src="/uploads/js/Aller_700.font.js"></script>
+<script type="text/javascript" src="/uploads/js/behave.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_52_1331907298.css"/>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/uploads/stylesheet_53_1331907780.css"/>
+<![endif]-->
+<script type="text/javascript" src="/uploads/js/skrypty.js"></script>
+
+</head>
+
+<body class="lang-zh-hans">
+<div id="header" class="main">
+    <h1 id="logo_wrap"><a href="/"><img src="/uploads/img/altum_vident_logo.png" width="175" height="100" alt="Altum Vident" /></a></h1>
+    <div id="lang">
+    
+    
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/pl/b2b-business-events/additional-packets">
+        
+            <img alt="Polski" title="Polski" src="/uploads/images/MleCMS/pl.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/en/b2b-business-events/additional-packets">
+        
+            <img alt="English" title="English" src="/uploads/images/MleCMS/en.png">
+        
+        </a>
+        
+    
+        
+            <img alt="简体中文" title="简体中文" src="/uploads/images/MleCMS/zh-hans.png">
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/de/b2b-business-events/additional-packets">
+        
+            <img alt="Deutsch" title="Deutsch" src="/uploads/images/MleCMS/de.png">
+        
+        </a>
+        
+    
+        
+        <a style="-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50)'; filter: alpha(opacity=50); opacity:.5;" href="/fr/b2b-business-events/additional-packets">
+        
+            <img alt="Français" title="Français" src="/uploads/images/MleCMS/fr.png">
+        
+        </a>
+        
+    
+    </div>
+    <div class="clear"></div>
+
+    <!-- start menu -->
+    <div id="menu">
+        <ul>
+            
+            
+            
+            <li class="">
+                <a href="/zh-hans/"><span>主页</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/zh-hans/why-us"><span>为何选择我们？</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/zh-hans/mission-and-vision"><span>使命和愿景</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/zh-hans/about-us"><span>评说我们</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/zh-hans/destination-poland"><span>方向：波兰</span></a>
+            </li>
+            
+            
+            <li class="active m_events">
+                <a class="active" href="/zh-hans/b2b-business-events"><span>B2B业务项目</span></a>
+            </li>
+            
+            
+            <li class=" m_programs">
+                <a href="/zh-hans/b2b-business-programs"><span>B2B模块</span></a>
+            </li>
+            
+            
+            <li class="">
+                <a href="/zh-hans/contact/"><span>联系方式</span></a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<div id="content" class="main">
+<div id="column_l" style="width: 950px;">
+<div id="sub-page" style="width: 950px;">
+<div style="float: left; width: 460px;">
+<h2>附加服务：</h2>
+<h3>预定飞机票</h3>
+<p><img style="float: left;" src="../../../../../uploads/images/rezerwacja.jpg" alt="" width="85" height="89" /></p>
+<ul style="float: left;">
+<li>至少三个不同航班的提议</li>
+<li>预定飞机票</li>
+<li>购买飞机票</li>
+</ul>
+<h3 class="clearfix">预定酒店</h3>
+<p><img style="float: left;" src="../../../../../uploads/images/hotel.jpg" alt="" width="85" height="90" /></p>
+<ul style="float: left;">
+<li>至少三个不同酒店的提议</li>
+<li>预定</li>
+</ul>
+<h3 class="clearfix">安排当地运输</h3>
+<p><img style="float: left;" src="../../../../../uploads/images/transport.jpg" alt="" width="85" height="89" /></p>
+<ul style="float: left;">
+<li>接机服务</li>
+<li>租约汽车</li>
+</ul>
+<p class="clear">&nbsp;</p>
+</div>
+<div style="float: left; margin-top: 30px; margin-bottom: 20px; width: 460px;">
+<h3 class="clearfix">支持</h3>
+<p><img style="float: left;" src="../../../../../uploads/images/wsparcie.jpg" alt="" width="85" height="89" /></p>
+<ul style="float: left;">
+<li>租约翻译</li>
+<li>门卫</li>
+<li>租约办公室</li>
+</ul>
+<h3 class="clearfix">安排休闲时间</h3>
+<p><img style="float: left;" src="../../../../../uploads/images/wolny.jpg" alt="" width="85" height="90" /></p>
+<ul style="float: left;">
+<li>预定餐馆</li>
+<li>准备旅游景点、文化活动的提议</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+</div>
+
+
+<div class="clear">&nbsp;</div>
+
+<div id="prom" class="main">
+    <h2>Altum Vident <span>是您在波兰的伙伴！</span></h2>
+    <h2><span style="margin-left: 250px;">更是您在波兰的商业伴侣！</span></h2>
+</div>
+
+<div class="f_bg">
+    <div id="footer" class="main">
+        <p class="f_left">
+        Copyright &copy; 2017 by AltumVident - All rights reserved.
+        <div class="clear"></div>
+    </div>
+</div>
+</body>
+</html>
